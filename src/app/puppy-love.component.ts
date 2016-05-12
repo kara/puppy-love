@@ -35,7 +35,7 @@ export class PuppyLoveAppComponent {
     {
       name: "My Account",
       description: "Edit my account information",
-      icon: "assignment ind"
+      icon: "assignment_ind"
     },
     {
       name: "Potential dates",
